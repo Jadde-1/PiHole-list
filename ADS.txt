@@ -1,4 +1,11 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: Personal block list
+# License: https://unlicense.org
+# Total number of network filters: Growing
+# -------------------------------------[INFO]---------------------------------------
+#
+# tracking list
+# ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 cat.fr3.eu.criteo.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 cat.fr3.eu.criteo.com
