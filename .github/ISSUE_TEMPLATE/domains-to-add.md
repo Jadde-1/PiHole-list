@@ -1,16 +1,5 @@
----
-name: Domains to add
-about: Domains to add
-title: ''
-labels: enhancement
-assignees: Jadde-1
+### Website to block
+paste the URL here:
 
----
-
-Make a list like this:
-AiSlop.com
-fakeNews.co.uk
-
-Not like this:
-AiSlop.com/bigSlop/slop
-www.fakeNews.co.uk/slop
+### Reason
+(optional)
